@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1038286820268",
+    "firebase_url": "https://welfareapp-a3dc5.firebaseio.com",
+    "project_id": "welfareapp-a3dc5",
+    "storage_bucket": "welfareapp-a3dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038286820268:android:4ff616feb1587c26a52009",
+        "android_client_info": {
+          "package_name": "com.example.welfareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038286820268-i15ct3125a0709b0joheurl0vrvni1ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.welfareapp",
+            "certificate_hash": "7723f307f18c6bdd73a9e99ee537a0673accd84e"
+          }
+        },
+        {
+          "client_id": "1038286820268-muf0vnpgd91k9in5h5be4fio4j8e7si7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6LokpdcVGiaG3TvfuW_fD9sCX6MacWmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038286820268-muf0vnpgd91k9in5h5be4fio4j8e7si7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
